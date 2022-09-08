@@ -21,3 +21,4 @@ This is the first web App
 
 
 st.write(df)
+st.line_chart(df)
